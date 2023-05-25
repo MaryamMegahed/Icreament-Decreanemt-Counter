@@ -4,4 +4,3 @@
 
 ![Alt Text](Simulation.gif)
 
-[![Video Name](Simulation_Video.mp4)](Simulation_Video.mp4)
